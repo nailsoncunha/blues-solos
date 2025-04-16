@@ -1,0 +1,14 @@
+<note>
+	<pitch><step>A</step>
+		<octave>3</octave>
+	</pitch>
+	<duration>1</duration>
+	<voice>1</voice>
+	<type>quarter</type>
+	<notations><dynamics><f></f>
+		</dynamics>
+		<technical><string>6</string>
+			<fret>5</fret>
+		</technical>
+	</notations>
+</note>
