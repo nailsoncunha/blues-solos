@@ -15,6 +15,11 @@ In this paper, we present a framework for computer-aided composition (CAC) that 
 
 ---
 
+👉 You can find **examples of generated guitar solos** here:  
+[https://dorienherremans.com/guitarsolos](https://dorienherremans.com/guitarsolos)
+
+---
+
 ## Citation
 
 If you use this code or the ideas from the paper, please cite:
